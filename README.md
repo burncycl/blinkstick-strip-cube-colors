@@ -19,12 +19,12 @@ sudo apt install git
 
 Clone this repo
 ```
-git clone https://github.com/burncycl/blinkstick-audio-led-visualizer.git
+git clone https://github.com/burncycl/blinkstick-strip-square-colors.git 
 ```
 
 Execute `install.sh` to install apt packager maintained dependencies.
 ```
-cd blinkstick-audio-led-visualizer/
+cd blinkstick-strip-square-colors/ 
 sudo ./install.sh
 ```
 
