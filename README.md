@@ -37,6 +37,6 @@ source ./init.sh
 
 **Run**
 ```
-python3 blinkstick.py 
+python3 blinc.py 
 ```
 
