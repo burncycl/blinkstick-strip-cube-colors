@@ -2,7 +2,7 @@
 
 Simple script to interact with Blinkstick Strip + Square
 
-Just an example. 
+Loops through colors in list. Just an example.
 
 Reference: 
 - https://www.blinkstick.com/products/blinkstick-square
